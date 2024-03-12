@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+pandas_profiling
+pivottablejs
+missingno
+scikit-learn
+ipykernel
