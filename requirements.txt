@@ -8,3 +8,8 @@ missingno
 scikit-learn
 ipykernel
 openpyxl
+ydata-profiling 
+ipywidgets
+xgboost
+imblearn
+yellowbrick
